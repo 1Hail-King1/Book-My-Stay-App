@@ -10,7 +10,7 @@ public class UC5 {
         private String roomType;
         private int numberOfBeds;
         private double pricePerNight;
-        private double roomSize;
+        private double roomSize; 
 
         public Room(String roomType, int numberOfBeds, double pricePerNight, double roomSize) {
             this.roomType = roomType;
